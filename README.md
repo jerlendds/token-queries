@@ -42,7 +42,7 @@ uv run jupyter lab
     - This collection consists of ~20M web queries collected from ~650k users over three months. The data is sorted by anonymous user ID and sequentially arranged.
 
 - https://figshare.com/articles/dataset/_Top_10_search_engine_queries_for_various_locations_/1070568
-    - Top 10 search engine queries for various locations DOI DOI 10.1371/journal.pone.0063980.t001
+    - Top 10 search engine queries for various locations DOI 10.1371/journal.pone.0063980.t001
 
 - https://figshare.com/articles/dataset/Search_query_lists/12398309
     - Search query lists DOI 10.6084/m9.figshare.12398309.v2
