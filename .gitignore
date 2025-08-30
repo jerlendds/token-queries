@@ -2,3 +2,8 @@ venv
 .vscode
 src/.venv
 src/.ipynb_checkpoints
+
+
+# TODO: Determine how big our dataset will be when all compiled into one and include in repo or as LFS or hosted somewhere
+AOL*
+google-trends-dataset.zip
