@@ -1,5 +1,7 @@
 # Tokenizing search engine queries for diverse results
 
+You can find some additional details on what this is here: https://studium.dev/tech/simple-serp-strategy
+
 to be continued...
 
 ## Notebook Setup
