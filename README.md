@@ -42,17 +42,17 @@ uv run jupyter lab
     - This collection consists of ~20M web queries collected from ~650k users over three months. The data is sorted by anonymous user ID and sequentially arranged.
 
 - https://figshare.com/articles/dataset/_Top_10_search_engine_queries_for_various_locations_/1070568
+    - **DOI**: _10.1371/journal.pone.0063980.t001_
     - Top 10 search engine queries for various locations 
-    - **DOI** _10.1371/journal.pone.0063980.t001_
 
 - https://figshare.com/articles/dataset/Search_query_lists/12398309
+    - **DOI**: _10.6084/m9.figshare.12398309.v2_
     - Search query lists 
-    - **DOI** _10.6084/m9.figshare.12398309.v2_
 
 - https://osf.io/s65jd/
+    - **DOI**: _10.7717/peerj-cs.1421._
     -  Research data for the paper "Query sampler: generating query sets for analyzing search engines using keyword research tools" 
-    - **DOI** _10.7717/peerj-cs.1421._
 
 - https://huggingface.co/datasets/s-emanuilov/query-expansion
+    - **DOI**: _10.57967/hf/3881_
     - Query Expansion Dataset: This dataset is designed to train search query expansion models that can generate multiple semantic expansions for a given query. 
-    - **DOI** _10.57967/hf/3881_
