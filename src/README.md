@@ -1,6 +1,6 @@
 # Tokenizing search engine queries for diverse results
 
-to be continued...
+
 
 ## Notebook Setup
 ```bash
@@ -11,13 +11,13 @@ uv run jupyter lab
 
 ### Dependencies
 
-- [uv](https://docs.astral.sh/uv/)
 - [polars](https://pola.rs/)
 - [duckdb](https://duckdb.org)
 - [aiohttp](https://docs.aiohttp.org/en/stable/index.html)
 - [jupyter](https://jupyterlab.readthedocs.io)
+- [uv](https://docs.astral.sh/uv/)
 
-## Search engines to run SERP diffs on
+## Search engines to diff tokenized results
 - [Google](https://www.google.com/)
 - [Duckduckgo](https://duckduckgo.com/)
 - [Bing](https://www.bing.com/)
@@ -31,5 +31,5 @@ uv run jupyter lab
 ## Resources used
 
 - https://trends.google.com
-    - For compiling a common search queries dataset sorted by country origin
+    - Used for compiling a common search queries dataset; queries will be sorted by country origin
 
