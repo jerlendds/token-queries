@@ -19,7 +19,7 @@ uv run jupyter lab
 - [aiohttp](https://docs.aiohttp.org/en/stable/index.html)
 - [jupyter](https://jupyterlab.readthedocs.io)
 
-## Search engines to run SERP diffs on
+## Search engines to diff (tokenized query vs. original query)
 - [Google](https://www.google.com/)
 - [Duckduckgo](https://duckduckgo.com/)
 - [Bing](https://www.bing.com/)
